@@ -1,0 +1,23 @@
+{
+  "name": "JSONativeUI",
+  "version": "0.1.0",
+  "summary": "JSON to UI for iOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/coooliang/JSONativeUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenliang": "coooliang"
+  },
+  "source": {
+    "git": "https://github.com/coooliang/JSONativeUI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "static_framework": true,
+  "source_files": "JSONativeUI/Classes/**/*"
+}

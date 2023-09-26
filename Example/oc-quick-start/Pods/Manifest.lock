@@ -1,0 +1,16 @@
+PODS:
+  - JSONativeUI (0.1.0)
+
+DEPENDENCIES:
+  - JSONativeUI (from `/Users/lion/sourcetree-workspace/librarys/JSONativeUI`)
+
+EXTERNAL SOURCES:
+  JSONativeUI:
+    :path: "/Users/lion/sourcetree-workspace/librarys/JSONativeUI"
+
+SPEC CHECKSUMS:
+  JSONativeUI: 50164e2c66e92f47a3a084af76ba9fc0bed97c14
+
+PODFILE CHECKSUM: 45e3f09139f0a5324de47adc31a1fc2e84d39a32
+
+COCOAPODS: 1.12.1
