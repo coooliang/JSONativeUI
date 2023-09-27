@@ -28,5 +28,6 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
   s.static_framework = true
   s.source_files = 'JSONativeUI/Classes/**/*'
-  # s.dependency 'YYCache'
+  s.dependency 'YYModel'
+   
 end

@@ -19,5 +19,10 @@
     "ios": "9.0"
   },
   "static_framework": true,
-  "source_files": "JSONativeUI/Classes/**/*"
+  "source_files": "JSONativeUI/Classes/**/*",
+  "dependencies": {
+    "YYModel": [
+
+    ]
+  }
 }

@@ -1,15 +1,22 @@
 PODS:
-  - JSONativeUI (0.1.0)
+  - JSONativeUI (0.1.0):
+    - YYModel
+  - YYModel (1.0.4)
 
 DEPENDENCIES:
   - JSONativeUI (from `/Users/lion/sourcetree-workspace/librarys/JSONativeUI`)
+
+SPEC REPOS:
+  trunk:
+    - YYModel
 
 EXTERNAL SOURCES:
   JSONativeUI:
     :path: "/Users/lion/sourcetree-workspace/librarys/JSONativeUI"
 
 SPEC CHECKSUMS:
-  JSONativeUI: 50164e2c66e92f47a3a084af76ba9fc0bed97c14
+  JSONativeUI: 80e73e7f30aac53fc77bd20f003953c5184a0bd0
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
 
 PODFILE CHECKSUM: 45e3f09139f0a5324de47adc31a1fc2e84d39a32
 
